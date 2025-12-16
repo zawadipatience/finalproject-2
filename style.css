@@ -1,0 +1,141 @@
+:root{
+
+--primary: #E9E9DDff;
+--golden-orange: #EB9E0Bff;
+--bright-snow: #F9F9FAff;
+--secondary: #795014ff;
+
+}
+
+nav{
+    background-color: var(--primary);
+}
+
+footer{
+    background-color: var(--secondary);
+    padding: 20px;;
+    align-content: center;
+    
+    justify-content: center;
+
+}
+ 
+body{
+    background-color:transparent;
+}
+
+.about-us-section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+}
+
+
+.carousel-item img{
+    height: 490px;
+    
+}
+
+.hero{
+    background-color: var(--secondary);
+    color: white;
+    padding: 130px;
+    margin-top: 20px;
+}
+
+.hero-1{
+     display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: var(--secondary);
+    color: white;
+   
+}
+
+.hero-2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+     color: white;  
+}
+
+
+
+
+.row1{
+    color: var(--secondary);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.tav1{
+    background-color: var(--secondary);
+    width: 628px;
+    padding: 20px;
+
+}
+
+.tav2{
+    background-color: var(--secondary);
+    width: 476px;
+    padding: 40px;
+
+}
+
+.tav3{
+    background-color: var(--secondary);
+    width: 480px;
+    padding: 20px;
+}
+
+.btn{
+    background-color:var(--secondary);
+}
+
+.hero1{
+    background-color:lightblue;
+    
+}
+
+.tab{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.tab1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 50px;
+    color: var(--secondary);
+}
+
+.btn-1{
+   display: flex;
+    align-content: center;
+    justify-content: center;
+     
+}
+
+.tav-2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+      
+}
+
+.row-3{
+    display: flex;
+    align-content: center;
+    justify-content: center
+}
+
+
+  
+
+
